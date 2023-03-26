@@ -21,7 +21,7 @@ function Events() {
                 <marquee behavior="" direction=""> <h4>Incoming Events</h4></marquee>
                 <div className="card">
                   <div className="card-body">
-                  <img className='img-fluid' src="assets/photos/event.jpg" alt="imagek"  style ={{width:"60%", height:"70vh"}} />
+                  <img className='img-fluid' src="assets/photos/event.jpg" alt="imagek"  style ={{width:"80%", height:"430px"}} />
                   </div>
                 </div>
 

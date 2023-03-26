@@ -29,7 +29,7 @@ function Home() {
      
         <div class="carousel-item active">
         
-          <img src="assets/slideshow/lions.jpg" alt="imageq" class="d-block" style ={{width:"100%", height:"80vh"}} />
+          <img src="assets/slideshow/lions.jpg" alt="imageq" class="d-block" style ={{width:"100%", height:"520px"}} />
           <div class="carousel-caption">
           
             <marquee behavior="" direction="up" height="300px"> <h3 className='pb-5'  style ={{color:"yellow", fontSize:"50px" , fontWeight:"700"}}>
@@ -39,14 +39,14 @@ function Home() {
           </div>
         </div>
         <div class="carousel-item">
-          <img src="assets/slideshow/zebra.jpg" alt="imagew" class="d-block" style={{width:"100%" , height:"80vh"}}  />
+          <img src="assets/slideshow/zebra.jpg" alt="imagew" class="d-block" style={{width:"100%" , height:"520px"}}  />
           <div class="carousel-caption">
             <h3> wild hike</h3> 
             <p>Our Adventure!</p>
           </div> 
         </div>
         <div class="carousel-item">
-          <img src="assets/slideshow/tiger.jpg" alt="imagee" class="d-block" style={{width:"100%" , height:"80vh"}}/>
+          <img src="assets/slideshow/tiger.jpg" alt="imagee" class="d-block" style={{width:"100%" , height:"520px"}}/>
           <div class="carousel-caption">
             <h3>Wild hike</h3>
             <p>Our Adventure!!</p>

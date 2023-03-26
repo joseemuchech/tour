@@ -8,7 +8,7 @@ function Service() {
     <section className='main'> 
     
     <section className='one'>
-        <div className="container-fluid text-center pt-5 " style={{backgroundImage:`url("assets/photos/touristFour.jpg")` , height:"50vh", backgroundRepeat:"no-repeat", backgroundSize:"100%"}}>
+        <div className="container-fluid text-center pt-5 " style={{backgroundImage:`url("assets/photos/touristFour.jpg")` , height:"220px", backgroundRepeat:"no-repeat", backgroundSize:"100%"}}>
              <h6 style={{color:"yellow", fontSize:"30px"}}> Welcome to our website</h6>
              <h1 style={{color:"white", fontSize:"50px"}}>Our Services</h1>
         </div>

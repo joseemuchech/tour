@@ -8,7 +8,7 @@ function About() {
     <section className='main'> 
     
     <section className='one'>
-        <div className="container-fluid text-center pt-5" style={{backgroundImage:`url("assets/photos/fall.jpeg")` , height:"50vh", backgroundRepeat:"no-repeat", backgroundSize:"100%"}}>
+        <div className="container-fluid text-center pt-4" style={{backgroundImage:`url("assets/photos/fall.jpeg")` , height:"220px", backgroundRepeat:"no-repeat", backgroundSize:"100%"}}>
              <h6 style={{color:"yellow", fontSize:"30px"}}> Welcome to our website</h6>
              <h1 style={{color:"white", fontSize:"50px"}}>About us</h1>
         </div>
@@ -18,7 +18,7 @@ function About() {
       <div className="container-fluid pt-3 bg-light">
         <div className="row">
             <div className="col-md-6">
-            <img className='img-fluid' src="assets/photos/peck.jpg" alt="imagemn"  style ={{width:"100%", height:"70vh"}} />
+            <img className='img-fluid' src="assets/photos/peck.jpg" alt="imagemn"  style ={{width:"100%", height:"400px"}} />
             </div>
 
             <div className="col-md-6 p-3">

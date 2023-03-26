@@ -18,7 +18,7 @@ function Contact() {
         </div>
          <div className="row">
             <div className="col-md-4 px-2">
-            <img src="assets/photos/touristFive.jpg" alt="imageo" class="img-fluid" style ={{width:"100%", height:"72vh"}} />
+            <img src="assets/photos/touristFive.jpg" alt="imageo" class="img-fluid" style ={{width:"100%", height:"450px"}} />
             </div>
             <div className="col-md-4">
                <div className="card">
@@ -50,7 +50,7 @@ function Contact() {
 
             </div>
             <div className="col-md-4 px-2">
-            <img src="assets/photos/touristThree.jpg" alt="imagel" class="img-fluid" style ={{width:"100%", height:"72vh"}} />
+            <img src="assets/photos/touristThree.jpg" alt="imagel" class="img-fluid" style ={{width:"100%", height:"450px"}} />
             </div>
 
          </div>

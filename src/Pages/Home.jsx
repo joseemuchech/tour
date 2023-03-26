@@ -173,16 +173,17 @@ function Home() {
             <div className="row">
               <div className="col-md-2 "></div>
               <div className="col-md-8 pt-3 d-flex justify-content-between">
-                <div className=''>
-                  <img src="assets/photos/visa.jpeg" alt="imagea" class="d-block" style={{width:"100%" , height:"20vh"}}  />
+                <div className='p-2'>
+                  <img src="assets/photos/visa.jpeg" alt="imagea" class="img-fluid" style={{width:"100%" , height:"100px"}}  />
                   </div>
-                <div className=''>
-                <img src="assets/photos/mpesa.png" alt="imageb" class="d-block" style={{width:"100%" , height:"20vh"}}  />
+                <div className='p-2'>
+                <img src="assets/photos/mpesa.png" alt="imageb" class="img-fluid" style={{width:"100%" , height:"100px"}}  />
                 </div>
-                <div className=''>
-                <img src="assets/photos/master.png" alt="imagec" class="d-block" style={{width:"100%" , height:"20vh"}}  />
+                <div className='p-2'>
+                <img src="assets/photos/master.png" alt="imagec" class="img-fluid" style={{width:"100%" , height:"100px"}}  />
                 </div>
-                <div> <img src="assets/photos/transferBank.png" alt="imaged" class="d-block" style={{width:"100%" , height:"20vh"}}  />
+                <div className='p-2'> 
+                  <img src="assets/photos/transferBank.png" alt="imaged" class="img-fluid" style={{width:"100%" , height:"100px"}}  />
                 </div>
               </div>
               <div className="col-md-2"></div>

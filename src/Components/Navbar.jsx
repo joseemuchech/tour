@@ -21,25 +21,25 @@ function Navbar() {
      <ul class="navbar-nav ms-auto pe-5">
        <li class="nav-item">
          
-         <Link className='nav-link' to="/" >Home</Link>
+         <Link className='nav-link ps-2' to="/" >Home</Link>
        </li>
        <li class="nav-item">
-       <Link className='nav-link' to="/about" >About</Link>
+       <Link className='nav-link ps-2' to="/about" >About</Link>
        </li>
        <li class="nav-item">
-       <Link className='nav-link' to="/service" >Services</Link>
+       <Link className='nav-link ps-2' to="/service" >Services</Link>
        </li>
       
        <li class="nav-item">
-       <Link className='nav-link' to="/events" >Events</Link>
+       <Link className='nav-link ps-2' to="/events" >Events</Link>
        </li>
 
        <li class="nav-item">
-       <Link className='nav-link' to="/gallery" >Gallery</Link>
+       <Link className='nav-link ps-2' to="/gallery" >Gallery</Link>
        </li>
 
        <li class="nav-item">
-       <Link className='nav-link' to="/contact" >Contact</Link>
+       <Link className='nav-link ps-2' to="/contact" >Contact</Link>
        </li>
      </ul>
    </div>

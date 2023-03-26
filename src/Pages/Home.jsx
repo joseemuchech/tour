@@ -32,7 +32,7 @@ function Home() {
           <img src="assets/slideshow/lions.jpg" alt="imageq" class="d-block" style ={{width:"100%", height:"80vh"}} />
           <div class="carousel-caption">
           
-            <marquee behavior="" direction="up" height="300px"> <h3 className='pb-5'  style ={{color:"yellow", fontSize:"60px" , fontWeight:"700"}}>
+            <marquee behavior="" direction="up" height="300px"> <h3 className='pb-5'  style ={{color:"yellow", fontSize:"50px" , fontWeight:"700"}}>
               Welcome to Prince Safaris</h3></marquee>
             <p className='pb-5' style ={{color:"white", fontSize:"30px" , fontWeight:"500"}}>
               Your top tour guide</p>

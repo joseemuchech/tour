@@ -29,7 +29,7 @@ function Home() {
      
         <div class="carousel-item active">
         
-          <img src="assets/slideshow/lions.jpg" alt="imageq" class="d-block" style ={{width:"100%", height:"520px"}} />
+          <img src="assets/slideshow/lions.jpg" alt="imageq" class="d-block img-fluid" style ={{width:"100%", height:"520px"}} />
           <div class="carousel-caption">
           
             <marquee behavior="" direction="up" height="300px"> <h3 className='pb-5'  style ={{color:"yellow", fontSize:"50px" , fontWeight:"700"}}>
@@ -39,14 +39,14 @@ function Home() {
           </div>
         </div>
         <div class="carousel-item">
-          <img src="assets/slideshow/zebra.jpg" alt="imagew" class="d-block" style={{width:"100%" , height:"520px"}}  />
+          <img src="assets/slideshow/zebra.jpg" alt="imagew" class="d-block img-fluid" style={{width:"100%" , height:"520px"}}  />
           <div class="carousel-caption">
             <h3> wild hike</h3> 
             <p>Our Adventure!</p>
           </div> 
         </div>
         <div class="carousel-item">
-          <img src="assets/slideshow/tiger.jpg" alt="imagee" class="d-block" style={{width:"100%" , height:"520px"}}/>
+          <img src="assets/slideshow/tiger.jpg" alt="imagee" class="d-block img-fluid" style={{width:"100%" , height:"520px"}}/>
           <div class="carousel-caption">
             <h3>Wild hike</h3>
             <p>Our Adventure!!</p>
@@ -81,7 +81,7 @@ function Home() {
                <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/leopard.jpg" alt="image1" class="d-block" style ={{width:"100%"}} />
+                  <img src="assets/photos/leopard.jpg" alt="image1" class="img-fluid" style ={{width:"100%"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>POST REVIEWS ON HOT DEALS</button>
                   </div>
@@ -95,7 +95,7 @@ function Home() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/touristFour.jpg" alt="image2" class="d-block" style ={{width:"100%"}} />
+                  <img src="assets/photos/touristFour.jpg" alt="image2" class="img-fluid" style ={{width:"100%"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>POST REVIEWS ON HOT DEALS</button>
                   </div>
@@ -109,7 +109,7 @@ function Home() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/lakeOne.jpeg" alt="image3" class="d-block" style ={{width:"100%"}} />
+                  <img src="assets/photos/lakeOne.jpeg" alt="image3" class="img-fluid" style ={{width:"100%"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>POST REVIEWS ON HOT DEALS</button>
                   </div>

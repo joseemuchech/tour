@@ -13,7 +13,7 @@ function Gallery() {
                <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/elephantDark.jpg" alt="imageh" class="d-block" style ={{width:"100%" , height:"40vh"}} />
+                  <img src="assets/photos/elephantDark.jpg" alt="imageh" class="img-fluid" style ={{width:"100%" , height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Elephant</button>
                   </div>
@@ -23,7 +23,7 @@ function Gallery() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/leopard.jpg" alt="imageg" class="d-block" style ={{width:"100%" , height:"40vh"}} />
+                  <img src="assets/photos/leopard.jpg" alt="imageg" class="img-fluid" style ={{width:"100%" , height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Leopard</button>
                   </div>
@@ -33,7 +33,7 @@ function Gallery() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/touristFour.jpg" alt="imagef" class="d-block" style ={{width:"100%" , height:"40vh"}} />
+                  <img src="assets/photos/touristFour.jpg" alt="imagef" class="img-fluid" style ={{width:"100%" , height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Site</button>
                   </div>
@@ -46,7 +46,7 @@ function Gallery() {
                <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/peck.jpg" alt="images" class="d-block" style ={{width:"100% ", height:"40vh"}} />
+                  <img src="assets/photos/peck.jpg" alt="images" class="img-fluid" style ={{width:"100% ", height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Peck Bird</button>
                   </div>
@@ -56,7 +56,7 @@ function Gallery() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/touristTwo.jpeg" alt="imagez" class="d-block" style ={{width:"100%", height:"40vh"}} />
+                  <img src="assets/photos/touristTwo.jpeg" alt="imagez" class="img-fluid" style ={{width:"100%", height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Tourvan</button>
                   </div>
@@ -66,7 +66,7 @@ function Gallery() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/zebra.jpg" alt="imagex" class="d-block" style ={{width:"100%", height:"40vh"}} />
+                  <img src="assets/photos/zebra.jpg" alt="imagex" class="img-fluid" style ={{width:"100%", height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Zebras</button>
                   </div>
@@ -79,7 +79,7 @@ function Gallery() {
                <div className="col-md-4">
                 <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/blackWhite.jpg" alt="imagev" class="d-block" style ={{width:"100%", height:"40vh"}} />
+                  <img src="assets/photos/blackWhite.jpg" alt="imagev" class="img-fluid" style ={{width:"100%", height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>Black and white Duck</button>
                   </div>
@@ -89,7 +89,7 @@ function Gallery() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/ostrich.jpeg" alt="imagen" class="d-block" style ={{width:"100%", height:"40vh"}} />
+                  <img src="assets/photos/ostrich.jpeg" alt="imagen" class="img-fluid" style ={{width:"100%", height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Ostrich</button>
                   </div>
@@ -99,7 +99,7 @@ function Gallery() {
                <div className="col-md-4">
                <div className="card">
                   <div className="card-body">
-                  <img src="assets/photos/lions.jpg" alt="imagem" class="d-block" style ={{width:"100%", height:"40vh"}} />
+                  <img src="assets/photos/lions.jpg" alt="imagem" class="img-fluid" style ={{width:"100%", height:"40vh"}} />
                   <div className='text-center' style ={{backgroundColor:"gray"}} >
                   <button className='btn fw-bold text-white'>The Lions</button>
                   </div>

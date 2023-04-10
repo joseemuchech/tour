@@ -54,7 +54,7 @@ function Footer() {
           </div>
 
       </div>
-
+      
       <hr/>
         <div class="col-md-12 text-center pt-2" >
            <h6>Copyright @copy 2023 <i className='text-warning h4'>Prince Safaris</i> - All rights reserved</h6>
